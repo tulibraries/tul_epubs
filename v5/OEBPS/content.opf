@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 16.1" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>annual_report_2020_v5</dc:title>
+		<dc:date>2021-02-18T18:32:03Z</dc:date>
+		<dc:language>en-US</dc:language>
+		<meta property="dcterms:modified">2021-02-18T18:32:03Z</meta>
+		<dc:identifier id="bookid">urn:uuid:E8AE2163-3C6D-4AD2-BDDF-581F1F18DE90</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">both</meta>
+	</metadata>
+	<manifest>
+		<item id="annual_report_2020_v5-1" href="annual_report_2020_v5-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-2" href="annual_report_2020_v5-2.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-3" href="annual_report_2020_v5-3.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-4" href="annual_report_2020_v5-4.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-5" href="annual_report_2020_v5-5.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-6" href="annual_report_2020_v5-6.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-7" href="annual_report_2020_v5-7.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-8" href="annual_report_2020_v5-8.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-9" href="annual_report_2020_v5-9.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-10" href="annual_report_2020_v5-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-11" href="annual_report_2020_v5-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-12" href="annual_report_2020_v5-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-13" href="annual_report_2020_v5-13.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-14" href="annual_report_2020_v5-14.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-15" href="annual_report_2020_v5-15.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-16" href="annual_report_2020_v5-16.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-17" href="annual_report_2020_v5-17.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-18" href="annual_report_2020_v5-18.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-19" href="annual_report_2020_v5-19.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-20" href="annual_report_2020_v5-20.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-21" href="annual_report_2020_v5-21.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-22" href="annual_report_2020_v5-22.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-23" href="annual_report_2020_v5-23.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-24" href="annual_report_2020_v5-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-25" href="annual_report_2020_v5-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-26" href="annual_report_2020_v5-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-27" href="annual_report_2020_v5-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="annual_report_2020_v5-28" href="annual_report_2020_v5-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="Arial-Black.ttf" href="font/Arial-Black.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="ArialMT.ttf" href="font/ArialMT.ttf" media-type="application/vnd.ms-opentype" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x2_12_20_temple_026.jpg" href="image/2_12_20_temple_026.jpg" media-type="image/jpeg" />
+		<item id="x2_13_20_Temple_030.jpg" href="image/2_13_20_Temple_030.jpg" media-type="image/jpeg" />
+		<item id="x02_Family_Bible_and_Papers_3.jpg" href="image/02_Family_Bible_and_Papers_3.jpg" media-type="image/jpeg" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x03_Got_to_Have_Soul.jpg" href="image/03_Got_to_Have_Soul.jpg" media-type="image/jpeg" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x04_Black_Control_of_the_BC.jpg" href="image/04_Black_Control_of_the_BC.jpg" media-type="image/jpeg" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x37.png" href="image/37.png" media-type="image/png" />
+		<item id="x41.png" href="image/41.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x66.png" href="image/66.png" media-type="image/png" />
+		<item id="x67.png" href="image/67.png" media-type="image/png" />
+		<item id="x68.png" href="image/68.png" media-type="image/png" />
+		<item id="x69.png" href="image/69.png" media-type="image/png" />
+		<item id="x79.png" href="image/79.png" media-type="image/png" />
+		<item id="x81.png" href="image/81.png" media-type="image/png" />
+		<item id="x82.png" href="image/82.png" media-type="image/png" />
+		<item id="x88.png" href="image/88.png" media-type="image/png" />
+		<item id="x89.png" href="image/89.png" media-type="image/png" />
+		<item id="x90.png" href="image/90.png" media-type="image/png" />
+		<item id="x91.png" href="image/91.png" media-type="image/png" />
+		<item id="x95.png" href="image/95.png" media-type="image/png" />
+		<item id="x099_Charles_grand_opening.jpg" href="image/099_Charles_grand_opening.jpg" media-type="image/jpeg" />
+		<item id="x109.png" href="image/109.png" media-type="image/png" />
+		<item id="x111.png" href="image/111.png" media-type="image/png" />
+		<item id="x112.png" href="image/112.png" media-type="image/png" />
+		<item id="x113_Charles_grand_opening.jpg" href="image/113_Charles_grand_opening.jpg" media-type="image/jpeg" />
+		<item id="x116.png" href="image/116.png" media-type="image/png" />
+		<item id="x125.png" href="image/125.png" media-type="image/png" />
+		<item id="x133.png" href="image/133.png" media-type="image/png" />
+		<item id="x137.png" href="image/137.png" media-type="image/png" />
+		<item id="x146.png" href="image/146.png" media-type="image/png" />
+		<item id="x147.png" href="image/147.png" media-type="image/png" />
+		<item id="x148.png" href="image/148.png" media-type="image/png" />
+		<item id="x159.png" href="image/159.png" media-type="image/png" />
+		<item id="x181.png" href="image/181.png" media-type="image/png" />
+		<item id="x182.png" href="image/182.png" media-type="image/png" />
+		<item id="x184.png" href="image/184.png" media-type="image/png" />
+		<item id="x186.png" href="image/186.png" media-type="image/png" />
+		<item id="x187.png" href="image/187.png" media-type="image/png" />
+		<item id="x193.png" href="image/193.png" media-type="image/png" />
+		<item id="x204.png" href="image/204.png" media-type="image/png" />
+		<item id="x207.png" href="image/207.png" media-type="image/png" />
+		<item id="x208.png" href="image/208.png" media-type="image/png" />
+		<item id="x220.png" href="image/220.png" media-type="image/png" />
+		<item id="x222.png" href="image/222.png" media-type="image/png" />
+		<item id="x223.png" href="image/223.png" media-type="image/png" />
+		<item id="x236.png" href="image/236.png" media-type="image/png" />
+		<item id="x247_Charles_grand_opening.jpg" href="image/247_Charles_grand_opening.jpg" media-type="image/jpeg" />
+		<item id="x252.png" href="image/252.png" media-type="image/png" />
+		<item id="x256.png" href="image/256.png" media-type="image/png" />
+		<item id="x262.png" href="image/262.png" media-type="image/png" />
+		<item id="x264.png" href="image/264.png" media-type="image/png" />
+		<item id="x273.png" href="image/273.png" media-type="image/png" />
+		<item id="x279.png" href="image/279.png" media-type="image/png" />
+		<item id="x283_Charles_grand_opening.jpg" href="image/283_Charles_grand_opening.jpg" media-type="image/jpeg" />
+		<item id="x297.png" href="image/297.png" media-type="image/png" />
+		<item id="x298.png" href="image/298.png" media-type="image/png" />
+		<item id="x299.png" href="image/299.png" media-type="image/png" />
+		<item id="x300.png" href="image/300.png" media-type="image/png" />
+		<item id="x303.png" href="image/303.png" media-type="image/png" />
+		<item id="x305.png" href="image/305.png" media-type="image/png" />
+		<item id="x317.png" href="image/317.png" media-type="image/png" />
+		<item id="x318.png" href="image/318.png" media-type="image/png" />
+		<item id="x319.png" href="image/319.png" media-type="image/png" />
+		<item id="x320.png" href="image/320.png" media-type="image/png" />
+		<item id="x327.png" href="image/327.png" media-type="image/png" />
+		<item id="x329.png" href="image/329.png" media-type="image/png" />
+		<item id="x334.png" href="image/334.png" media-type="image/png" />
+		<item id="x336.png" href="image/336.png" media-type="image/png" />
+		<item id="x348.png" href="image/348.png" media-type="image/png" />
+		<item id="x355.png" href="image/355.png" media-type="image/png" />
+		<item id="x359.png" href="image/359.png" media-type="image/png" />
+		<item id="x20190912_LibraryDedicationRSB_036.jpg" href="image/20190912_LibraryDedicationRSB_036.jpg" media-type="image/jpeg" />
+		<item id="x20190918_Charles_EAM_010.jpg" href="image/20190918_Charles_EAM_010.jpg" media-type="image/jpeg" />
+		<item id="x20190919_Open_House_JVL_006.jpg" href="image/20190919_Open_House_JVL_006.jpg" media-type="image/jpeg" />
+		<item id="x20190923_concert_014.jpg" href="image/20190923_concert_014.jpg" media-type="image/jpeg" />
+		<item id="x20191111_Mercury_Transit_038.jpg" href="image/20191111_Mercury_Transit_038.jpg" media-type="image/jpeg" />
+		<item id="x20200306_TMAGEricBattle_006-High_Res_JPEG.jpg" href="image/20200306_TMAGEricBattle_006-High_Res_JPEG.jpg" media-type="image/jpeg" />
+		<item id="x20200306_TMAGEricBattle_012.jpg" href="image/20200306_TMAGEricBattle_012.jpg" media-type="image/jpeg" />
+		<item id="x20200311_Sci_Fi_002.jpg" href="image/20200311_Sci_Fi_002.jpg" media-type="image/jpeg" />
+		<item id="x20200803_sign_016.jpg" href="image/20200803_sign_016.jpg" media-type="image/jpeg" />
+		<item id="x20200817_stock_008.jpg" href="image/20200817_stock_008.jpg" media-type="image/jpeg" />
+		<item id="x20200826_Charles_Book_Drop_006.jpg" href="image/20200826_Charles_Book_Drop_006.jpg" media-type="image/jpeg" />
+		<item id="x20200826_Charles_One_Stop_010.jpg" href="image/20200826_Charles_One_Stop_010.jpg" media-type="image/jpeg" />
+		<item id="x20200827_CampusStockRSB_055.png" href="image/20200827_CampusStockRSB_055.png" media-type="image/png" />
+		<item id="x20200903_Covid_Facilities_009.jpg" href="image/20200903_Covid_Facilities_009.jpg" media-type="image/jpeg" />
+		<item id="x20200923_CharlesLibraryRSB_016-High_Res_JPEG_300_DPI.jpg" href="image/20200923_CharlesLibraryRSB_016-High_Res_JPEG_300_DPI.jpg" media-type="image/jpeg" />
+		<item id="x20200923_CharlesLibraryRSB_043-High_Res_JPEG_300_DPI.jpg" href="image/20200923_CharlesLibraryRSB_043-High_Res_JPEG_300_DPI.jpg" media-type="image/jpeg" />
+		<item id="x72756945_10156234621167827_9150142651184447488_o.jpg" href="image/72756945_10156234621167827_9150142651184447488_o.jpg" media-type="image/jpeg" />
+		<item id="x73364110_10156234620547827_4790771843839557632_o.jpg" href="image/73364110_10156234620547827_4790771843839557632_o.jpg" media-type="image/jpeg" />
+		<item id="book_14945.png" href="image/book_14945.png" media-type="image/png" />
+		<item id="Cedar_Park_Transit-Map.jpg" href="image/Cedar_Park_Transit%2BMap.jpg" media-type="image/jpeg" />
+		<item id="CharlesLib_0559.jpg" href="image/CharlesLib_0559.jpg" media-type="image/jpeg" />
+		<item id="CharlesLib_2246.jpg" href="image/CharlesLib_2246.jpg" media-type="image/jpeg" />
+		<item id="consultation_2534161.png" href="image/consultation_2534161.png" media-type="image/png" />
+		<item id="De_La_Mare_Savage_letter.jpg" href="image/De_La_Mare_Savage_letter.jpg" media-type="image/jpeg" />
+		<item id="DuckworthScholarsStudioAndMakerspace-4.jpg" href="image/DuckworthScholarsStudioAndMakerspace-4.jpg" media-type="image/jpeg" />
+		<item id="e-book_1191130.png" href="image/e-book_1191130.png" media-type="image/png" />
+		<item id="ebook_2019046.png" href="image/ebook_2019046.png" media-type="image/png" />
+		<item id="email_1569998.png" href="image/email_1569998.png" media-type="image/png" />
+		<item id="Exhibit_Pieces-7.jpg" href="image/Exhibit_Pieces-7.jpg" media-type="image/jpeg" />
+		<item id="facebook-logo.png" href="image/facebook-logo.png" media-type="image/png" />
+		<item id="Flashpoint.jpg" href="image/Flashpoint.jpg" media-type="image/jpeg" />
+		<item id="Good_Reasons_to_Run.jpg" href="image/Good_Reasons_to_Run.jpg" media-type="image/jpeg" />
+		<item id="Great_Migration.jpg" href="image/Great_Migration.jpg" media-type="image/jpeg" />
+		<item id="IMG_3230.jpg" href="image/IMG_3230.jpg" media-type="image/jpeg" />
+		<item id="IMG-0445_-1-.jpg" href="image/IMG-0445_%281%29.jpg" media-type="image/jpeg" />
+		<item id="instagram-logo.png" href="image/instagram-logo.png" media-type="image/png" />
+		<item id="Invisible_People.jpg" href="image/Invisible_People.jpg" media-type="image/jpeg" />
+		<item id="JL_TU_MASK.jpg" href="image/JL_TU_MASK.jpg" media-type="image/jpeg" />
+		<item id="Libraries_4C_Red_Black.png" href="image/Libraries_4C_Red_Black.png" media-type="image/png" />
+		<item id="Libraries_4C_Red_Black1.png" href="image/Libraries_4C_Red_Black1.png" media-type="image/png" />
+		<item id="library_1972352.png" href="image/library_1972352.png" media-type="image/png" />
+		<item id="library_2411041.png" href="image/library_2411041.png" media-type="image/png" />
+		<item id="Luciasignature.png" href="image/Luciasignature.png" media-type="image/png" />
+		<item id="Monument_Lab.jpg" href="image/Monument_Lab.jpg" media-type="image/jpeg" />
+		<item id="MOSLEY_BLAM.jpg" href="image/MOSLEY_BLAM.jpg" media-type="image/jpeg" />
+		<item id="NEW_L-R_Dr_Diane_Turner-_W_Cody_Anderson-_Dr_Ione_D_Vargus_-_Robert_W_Bogle_Photo_by_Bruce_Turner_DSC_9365.png" href="image/NEW_L-R_Dr_Diane_Turner%2C_W_Cody_Anderson%2C_Dr_Ione_D_Vargus_%26_Robert_W_Bogle_Photo_by_Bruce_Turner_DSC_9365.png" media-type="image/png" />
+		<item id="noun_article_3536763.png" href="image/noun_article_3536763.png" media-type="image/png" />
+		<item id="noun_Book_3594042.png" href="image/noun_Book_3594042.png" media-type="image/png" />
+		<item id="noun_ebook_3446422.png" href="image/noun_ebook_3446422.png" media-type="image/png" />
+		<item id="noun_guide_2966000.png" href="image/noun_guide_2966000.png" media-type="image/png" />
+		<item id="noun_magazine_2051395.png" href="image/noun_magazine_2051395.png" media-type="image/png" />
+		<item id="noun_Search_2184759.png" href="image/noun_Search_2184759.png" media-type="image/png" />
+		<item id="OpenConPhilly2019-40.jpg" href="image/OpenConPhilly2019-40.jpg" media-type="image/jpeg" />
+		<item id="P766159B.jpg" href="image/P766159B.jpg" media-type="image/jpeg" />
+		<item id="people_1100292.png" href="image/people_1100292.png" media-type="image/png" />
+		<item id="PEW_logo.jpg" href="image/PEW_logo.jpg" media-type="image/jpeg" />
+		<item id="Screenshot_20200504-153803_Instagram.jpg" href="image/Screenshot_20200504-153803_Instagram.jpg" media-type="image/jpeg" />
+		<item id="Shakespeare_and_Trump.jpg" href="image/Shakespeare_and_Trump.jpg" media-type="image/jpeg" />
+		<item id="teacher_1429557.png" href="image/teacher_1429557.png" media-type="image/png" />
+		<item id="tempestry.jpg" href="image/tempestry.jpg" media-type="image/jpeg" />
+		<item id="temple-050.jpg" href="image/temple-050.jpg" media-type="image/jpeg" />
+		<item id="temple-064.jpg" href="image/temple-064.jpg" media-type="image/jpeg" />
+		<item id="temple-115.jpg" href="image/temple-115.jpg" media-type="image/jpeg" />
+		<item id="TempleT_NoBox_CMYK_Red.png" href="image/TempleT_NoBox_CMYK_Red.png" media-type="image/png" />
+		<item id="Tulibraries_Profile_Photo.jpg" href="image/Tulibraries_Profile_Photo.jpg" media-type="image/jpeg" />
+		<item id="TUPressConferenceRoom-14.jpg" href="image/TUPressConferenceRoom-14.jpg" media-type="image/jpeg" />
+		<item id="twitter_logo.png" href="image/twitter_logo.png" media-type="image/png" />
+		<item id="website_824264.png" href="image/website_824264.png" media-type="image/png" />
+	</manifest>
+	<spine>
+		<itemref idref="annual_report_2020_v5-1" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-2" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-3" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-4" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-5" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-6" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-7" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-8" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-9" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-10" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-11" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-12" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-13" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-14" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-15" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-16" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-17" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-18" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-19" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-20" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-21" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-22" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-23" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-24" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-25" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-26" properties="page-spread-left" />
+		<itemref idref="annual_report_2020_v5-27" properties="page-spread-right" />
+		<itemref idref="annual_report_2020_v5-28" properties="page-spread-left" />
+	</spine>
+</package>
